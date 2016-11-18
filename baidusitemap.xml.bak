@@ -6,7 +6,7 @@
     
     
   <url>
-    <loc>https://bellonor.github.io/mycatbook.html</loc>
+    <loc>http://yoursite.com/mycatbook.html</loc>
     <lastmod>2016-11-18T03:03:22.145Z</lastmod>
     <data>
         <display>
@@ -18,7 +18,7 @@
          
            
              
-              <breadCrumb title="mycat" url="https://bellonor.github.io/categories/mycat/"/>
+              <breadCrumb title="mycat" url="http://yoursite.com/categories/mycat/"/>
           
         </display>
     </data>
