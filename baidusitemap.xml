@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+  <url>
+    <loc>http://yoursite.com/mycatbook.html</loc>
+    <lastmod>2016-11-18T03:03:22.145Z</lastmod>
+    <data>
+        <display>
+        <title>分布式数据库架构及企业实践——基于Mycat中间件</title>
+        <pubTime>2016-11-17T10:44:12.000Z</pubTime>
+        
+        <tag>mycat</tag>
+         
+         
+           
+             
+              <breadCrumb title="mycat" url="http://yoursite.com/categories/mycat/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+</urlset>
